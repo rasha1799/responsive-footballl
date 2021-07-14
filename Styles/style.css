@@ -89,14 +89,11 @@ font-family: 'Poppins', sans-serif;
     }
     
     /* moto style */
-.moto{
-    background-image: url(images/extra/mock.jpg);
-    background-repeat: no-repeat;
 
-}
 
 .our-moto{
     margin-bottom: 40px;
+    background-color: rgb(7, 7, 59);
 }
 .moto-highlight{
     font-weight: 700;
@@ -192,6 +189,8 @@ font-family: 'Poppins', sans-serif;
     }
     .captions{
         width: 400px;
+        margin: 0;
+
     }
         
     .top-part img{
@@ -227,5 +226,11 @@ font-family: 'Poppins', sans-serif;
        margin-left: 20px;
        margin-right: 20px;
    }
-    
+    .moto-button{
+        margin-left: 50px;
+        justify-content: center;
+    }
+    .moto{
+        width: 520px;
+    }
 }
