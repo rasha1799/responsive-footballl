@@ -90,7 +90,7 @@ font-family: 'Poppins', sans-serif;
     
     /* moto style */
 .moto{
-    background-image: url(/images/extra/mock.jpg);
+    background-image: url(images/extra/mock.jpg);
     background-repeat: no-repeat;
 
 }
