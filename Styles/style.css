@@ -187,9 +187,9 @@ font-family: 'Poppins', sans-serif;
     .players{
         justify-content: center;
     }
-    .captions{
-        width: 400px;
-        margin: 0;
+    .top-part{
+        width: 90%;
+        margin: 0px;
 
     }
         
@@ -200,10 +200,7 @@ font-family: 'Poppins', sans-serif;
         margin-left: 20px;
         
     }
-    .top-part img:hover
-        {
-            Cursor:text !important; Text-Decoration: None !important; 
-            } 
+    
     .caption{
         margin-left: 30px;
         font-size: 50px;
@@ -231,6 +228,6 @@ font-family: 'Poppins', sans-serif;
         justify-content: center;
     }
     .moto{
-        width: 520px;
+        width: 100%;
     }
 }
